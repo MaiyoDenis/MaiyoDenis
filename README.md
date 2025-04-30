@@ -91,12 +91,3 @@ Let’s connect and build something amazing together!
 ```
 
 ---
-
-### **How to Customize**
-1. Replace placeholders like `[Your Name]`, `yourusername`, `yourprofile`, etc., with your details.
-2. Personalize the **tech stack** with relevant skills and tools.
-3. Add dynamic GitHub stats by replacing `yourusername` in the stats URLs.
-4. Include your **projects** and their links.
-5. Add social links like LinkedIn, Twitter, and your portfolio.
-
-This will make your GitHub profile README both professional and engaging! Let me know if you need further adjustments. 🚀
