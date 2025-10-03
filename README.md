@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Denis Maiyo</h1>
-<h3 align="center">A passionate Sofware Engeneer from [Your Location]</h3>
+<h3 align="center">A passionate Sofware Engeneer from Eldoret,Kenya</h3>
 
 ---
 
